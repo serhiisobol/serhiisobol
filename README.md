@@ -5,7 +5,7 @@
 **Full list of my skills:**
 * Frontend: HTML5, CSS3, JavaScript, React.js, Redux, Flexbox, Pug ,SASS/SCSS, Bootstrap, ES6(ES2015).
 * Backend: Node.js, Express, Python, MySQL/SQL. 
-* Build tools, package managers and some other helpful things: Gulp, Webpack, NPM, Yarn, Lerna, Eslint, Prettier, Flow/TypeScript, Agile/Scrum, Figma.
+* Build tools, package managers and some other helpful things: GraphQL, Gulp, Webpack, NPM, Yarn, Lerna, Eslint, Prettier, Flow/TypeScript, Agile/Scrum, Figma.
 
 **Contact details:**
 * E-mail: serhii.sobol@incquerylabs.com
