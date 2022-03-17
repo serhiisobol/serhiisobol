@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi and welcome to my GitHub profile!<img src="https://c.tenor.com/l87lqcSylKgAAAAM/hi-hello.gif" width="35px" />
 
-<!--
-**serhiisobol/serhiisobol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I’m a Frontend developer at [IncQuery Labs](https://github.com/IncQueryLabs) <img src="https://avatars.githubusercontent.com/u/9496577?s=200&v=4" width="13px" height="13px"/>
 
-Here are some ideas to get you started:
+**Full list of my skills:**
+* Frontend: HTML5, CSS3, JavaScript, React.js, Redux, Flexbox, Pug ,SASS/SCSS, Bootstrap, ES6(ES2015).
+* Backend: Node.js, Express, Python, MySQL/SQL. 
+* Build tools, package managers and some other helpful things: Gulp, Webpack, NPM, Yarn, Lerna, Eslint, Prettier, Flow/TypeScript, Agile/Scrum, Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact details:**
+* E-mail: serhii.sobol@incquerylabs.com
+* LinkedIn: [Serhii Sobol](https://www.linkedin.com/in/serhiisobol/) 
+* Telegram: [@itsergeysobol](https://t.me/itsergeysobol)  
