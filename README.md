@@ -10,4 +10,5 @@
 **Contact details:**
 * E-mail: serhii.sobol@incquerylabs.com
 * LinkedIn: [Serhii Sobol](https://www.linkedin.com/in/serhiisobol/) 
-* Telegram: [@itsergeysobol](https://t.me/itsergeysobol)  
+* Telegram: [@itsergeysobol](https://t.me/itsergeysobol) 
+* Other: [CV](https://serhiisobol.simple.ink/)
