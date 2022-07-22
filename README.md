@@ -1,4 +1,4 @@
-## Hi and welcome to my GitHub profile!<img src="https://c.tenor.com/l87lqcSylKgAAAAM/hi-hello.gif" height="35px" width="35px"/>
+### Hi there 👋
 
 ### I’m a Frontend developer at [IncQuery Labs](https://github.com/IncQueryLabs) <img src="https://avatars.githubusercontent.com/u/9496577?s=200&v=4" width="13px" height="13px"/>
 
