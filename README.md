@@ -12,3 +12,12 @@
 * LinkedIn: [Serhii Sobol](https://www.linkedin.com/in/serhiisobol/) 
 * Telegram: [@itsergeysobol](https://t.me/itsergeysobol) 
 * Other: [CV](https://serhiisobol.simple.ink/)
+
+<img src="octocats/mona-loading.gif" width="40" height="40">
+
+# GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=serhiisobol&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhiisobol&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
+</div>
