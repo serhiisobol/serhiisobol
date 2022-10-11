@@ -13,8 +13,6 @@
 * Telegram: [@itsergeysobol](https://t.me/itsergeysobol) 
 * Other: [CV](https://serhiisobol.simple.ink/)
 
-<img src="octocats/mona-loading.gif" width="40" height="40">
-
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
