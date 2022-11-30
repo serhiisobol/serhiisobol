@@ -22,10 +22,3 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat-square&logo=node.js&logoColor=ffffff&color=3c873a)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=ffffff&color=007D7D)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc)
-
-# GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=serhiisobol&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhiisobol&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-</div>
