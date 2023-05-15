@@ -8,7 +8,7 @@
 * Build tools, package managers and some other helpful things: GraphQL, Gulp, Webpack, NPM, Yarn, Lerna, Eslint, Prettier, Flow/TypeScript, Agile/Scrum, Figma.
 
 **Contact details:**
-* E-mail: serhii.sobol@incquerylabs.com
+* E-mail: itsergeysobol@gmail.com
 * LinkedIn: [Serhii Sobol](https://www.linkedin.com/in/serhiisobol/) 
 * Telegram: [@itsergeysobol](https://t.me/itsergeysobol) 
 * Other: [CV](https://serhiisobol.simple.ink/)
