@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I’m a Frontend developer at [IncQuery Labs](https://github.com/IncQueryLabs) <img src="https://avatars.githubusercontent.com/u/9496577?s=200&v=4" width="13px" height="13px"/>
+### I’m a Frontend developer!
 
 **Full list of my skills:**
 * Frontend: HTML5, CSS3, JavaScript, React.js, Redux, Flexbox, Pug, SASS/SCSS, Bootstrap, ES6(ES2015).
