@@ -1,6 +1,12 @@
-# Hi there 👋
+Hi, my name is Serhii. I am a Frontend Developer! 👋
 
-### I’m a Frontend developer!
+I possess substantial expertise as a web developer, with a distinct specialization in front-end development. My proficiency lies in HTML, CSS, JavaScript, ReactJS, and ReduxJS, where I have demonstrated exceptional capabilities.
+
+My primary responsibility entails transforming your business concept into a fully developed project from a technological standpoint. With a focus on a product-centered approach, my aim is not merely to code, but to identify and provide optimal solutions essential for your business's success.
+
+I am ready to learn new ones and expand my current knowledge of the aforementioned as needed to the point where it makes me do my job faster, better, and more efficiently.
+
+In my leisure time, I engage in ongoing personal growth and self-improvement through activities such as running, hiking, and playing tennis. Furthermore, I have a keen interest in web development and continuously explore diverse facets within this domain. My exploration extends to emerging fields like cryptocurrency, e-commerce, and design, where I enjoy delving into new concepts and trends.
 
 **Full list of my skills:**
 * Frontend: HTML5, CSS3, JavaScript, React.js, Redux, Flexbox, Pug, SASS/SCSS, Bootstrap, ES6(ES2015).
